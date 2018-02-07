@@ -2,7 +2,7 @@
 
 This app is a pinterest like app with the following features:
 
-- Users
+- Users - Devise
 - Pins
 - Image Uploading
 - Voting
