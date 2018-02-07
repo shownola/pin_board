@@ -55,4 +55,5 @@ gem 'haml', '~> 4.0.5'
 gem 'bootstrap-sass', '~> 3.3.7'
 gem 'simple_form', github: 'kesha-antonov/simple_form', branch: 'rails-5-0'
 gem 'devise', '~> 4.2'
+gem "paperclip", "~> 5.2.1"
 
