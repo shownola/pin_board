@@ -57,4 +57,5 @@ gem 'simple_form', github: 'kesha-antonov/simple_form', branch: 'rails-5-0'
 gem 'devise', '~> 4.2'
 gem "paperclip", "~> 5.2.1"
 gem 'masonry-rails', '~> 0.2.4'
+gem 'acts_as_votable', '~> 0.11.1'
 

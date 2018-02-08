@@ -18,6 +18,7 @@ Using the some of the following gems:
 - devise for users
 - simple_form
 - Paperclip ~> 5.2.1
+- acts-as-votable
 
 * ...
 
